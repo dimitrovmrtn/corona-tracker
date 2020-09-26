@@ -1,0 +1,10 @@
+.formControl {
+  width: 30vw;
+  margin-bottom: 30px !important;
+}
+
+.formControl select {
+  padding-left: 10px;
+  border-radius: 3px;
+  background: white;
+}

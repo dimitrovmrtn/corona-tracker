@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 85vw;
+  background: white !important;
+  padding: 25px !important;
+  border-radius: 10px !important;
+}
+
+.chartjs-render-monitor canvas {
+  background: white !important;
+  padding: 25px !important;
+  border-radius: 10px !important;
+}
+
+@media (max-width: 770px) {
+  .container {
+    width: 93vw;
+  }
+}
